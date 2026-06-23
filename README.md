@@ -7,18 +7,22 @@ A beautiful multi-step Flutter app to ask someone out on a romantic date 🌹
 ✨ Overview
 Ask Me Out is a charming, animated Flutter app with a deep crimson-to-blush-pink theme that guides you through creating a personalised romantic date invitation — step by step.
 
+
 📱 Screenshots
 Step 1 — Who 💌
 Enter the name of the person you're asking out and your own name.
  <img src="assets/screenshots/screenshot_step1.png" width="250"/>
 
+
 Step 2 — Where 📍
 Choose from 8 preset locations (Cozy Café, Rooftop Restaurant, Beach Sunset…) or type your own dream spot.
  <img src="assets/screenshots/screenshot_step2.png" width="250"/>
 
+
 Step 3 — When 📅
 Pick a date using the native date picker, then select your preferred time of day from a visual grid.
 <img src="assets/screenshots/screenshot_step3.png" width="250"/>
+
 
 
 Step 4 — Vibe 🌹
@@ -26,9 +30,11 @@ Choose the mood (Romantic, Fun & Playful, Elegant, Adventurous…) and write a s
 <img src="assets/screenshots/screenshot_step4.png" width="250"/>
 
 
+
 Step 5 — Review ✨
 See a full summary of your invite before sending it.
 <img src="assets/screenshots/screenshot_step5.png" width="250"/>
+
 
 
 🎉 Final Screen
@@ -37,6 +43,7 @@ The invite is ready — complete with a pulsing heart animation and a beautiful 
 
 
 🗂️ Project Structure
+
 ask_me_out/
 ├── pubspec.yaml
 └── lib/
