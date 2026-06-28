@@ -132,6 +132,7 @@ ask_me_out/
         ├── step4_vibe.dart
         └── step5_review.dart
 ```
+<<<<<<< HEAD
 
 ---
 
@@ -174,3 +175,46 @@ This project is available for educational and personal use.
 ---
 
 Made with ❤️ using Flutter.
+=======
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Before running this project, ensure that you have:
+
+* Flutter SDK installed
+* Dart SDK installed
+* Android Studio, VS Code, or another Flutter-compatible IDE
+
+### Installation
+
+```bash
+git clone https://github.com/Kiyanjr/dating.git
+
+cd dating
+
+flutter pub get
+
+flutter run
+```
+
+---
+
+## 💖 Built With
+
+* Flutter
+* Dart
+* Material Design
+
+---
+
+## 📄 License
+
+This project is available for educational and personal use.
+
+
+
+>>>>>>> 81e20024633e9f6c82e89c33e04265659e14c06a
